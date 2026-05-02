@@ -12,7 +12,6 @@ This project covers two case studies:
 ├── Final_python_notebook_1.ipynb  # Data cleaning & preparation
 ├── Final_python_notebook_2.ipynb  # Classification modelling & hyperparameter tuning
 ├── Final_python_notebook_3.ipynb  # Ensemble learning & regression modelling
-├── loan_approval_data.csv         # Raw Dataset
 ├── Classification_Loan_Data.csv   # Prepared classification dataset
 ├── Regression_Loan_Data.csv       # Prepared regression dataset
 └── README.md
