@@ -9,11 +9,14 @@ This project covers two case studies:
 - **Case Study B:** Predicting the maximum loan amount for approved clients (regression)
 
 ## Repository Structure
-├── Final_python_notebook_1.ipynb  # Data cleaning & preparation
-├── Final_python_notebook_2.ipynb  # Classification modelling & hyperparameter tuning
-├── Final_python_notebook_3.ipynb  # Ensemble learning & regression modelling
-├── Classification_Loan_Data.csv   # Prepared classification dataset
-├── Regression_Loan_Data.csv       # Prepared regression dataset
+├── w2121370_Final_python_notebook_1.ipynb
+├── w2121370_Final_python_notebook_2.ipynb
+├── w2121370_Final_python_notebook_3.ipynb
+├── loan_approval_data.csv
+├── Classification_Loan_Data.csv
+├── Regression_Loan_Data.csv
+└── README.md
+
 └── README.md
 
 ## Models Used
